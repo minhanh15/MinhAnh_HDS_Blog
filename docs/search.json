@@ -6,14 +6,14 @@
       "description": "Some additional details about the blog",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2023-06-08T20:56:31+10:00"
+      "last_modified": "2023-06-08T20:58:41+10:00"
     },
     {
       "path": "index.html",
       "title": "The Visual Journey by Minh Anh",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2023-06-08T20:56:32+10:00"
+      "last_modified": "2023-06-08T20:58:41+10:00"
     }
   ],
   "collections": ["posts/posts.json"]
