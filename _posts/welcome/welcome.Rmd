@@ -4,10 +4,9 @@ description: |
   Welcome to our new blog, The Visual Journey by Minh Anh. We hope you enjoy 
   reading what we have to say!
 author:
-  - name: Nora Jones 
-    url: https://example.com/norajones
-    affiliation: Spacely Sprockets
-    affiliation_url: https://example.com/spacelysprokets
+  - name: Minh Anh Vu 
+    affiliation: UNSW Sydney
+    affiliation_url:
 date: 06-08-2023
 output:
   distill::distill_article:

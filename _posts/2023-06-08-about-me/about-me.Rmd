@@ -1,0 +1,24 @@
+---
+title: "About me"
+description: |
+  Welcome to my personal space, where I share my health data science journey, experiences, and insights with you
+author:
+  - name: Minh Anh Vu
+date: 2023-06-08
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Hi there! I'm Minh Anh Vu, a passionate data enthusiast hailing from Vietnam. With a background in Social-Economic Statistics, I have spent the past four years as a research assistant and data analyst at a prominent research center focusing on substance abuse and HIV/AIDS.
+
+Throughout my professional journey, I have witnessed the power of data in shaping our understanding of complex health issues. Inspired by this realization, I have embarked on a captivating expedition into the world of health data visualization.
+
+My aim is to bring together my expertise in statistics and my passion for visual storytelling to create compelling and impactful data visualizations. By translating intricate health data into visually engaging graphics, charts, and interactive dashboards, I strive to unlock insights, facilitate understanding, and advocate for evidence-based decision-making.
+
+Welcome aboard, and let's embark on this transformative journey together!
