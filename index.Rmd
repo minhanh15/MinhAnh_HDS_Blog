@@ -1,0 +1,5 @@
+---
+title: "The Visual Journey by Minh Anh"
+site: distill::distill_website
+listing: posts
+---
